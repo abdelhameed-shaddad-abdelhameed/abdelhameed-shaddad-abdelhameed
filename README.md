@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋, I'm Abdelhameed
+**Python Automation Engineer | Blockchain Developer in Training ⛓️**
 
-<!--
-**abdelhameed-shaddad-abdelhameed/abdelhameed-shaddad-abdelhameed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build smart bots, scrape complex data, and develop decentralized tools.
 
-Here are some ideas to get you started:
+* 🐍 **Python:** Web Scraping (Playwright, Selenium), Data Automation.
+* ⛓️ **Blockchain:** Solidity, Web3.py, Smart Contracts.
+* 💻 **Desktop:** C# Windows Forms & Tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 Let's Connect & Work Together:
+* 💼 **LinkedIn:** [www.linkedin.com/in/abdelhameed-mansour-911034151]
+* 🦅 **Mostaql:** [https://mostaql.com/u/abdelhameed1991]
+* 🟢 **Upwork:** [https://www.upwork.com/freelancers/~0170a3466f1588c964?mp_source=share]
+* 🎨 **Fiverr:** [https://www.fiverr.com/s/dDzbmw6]
